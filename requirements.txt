@@ -1,0 +1,10 @@
+datasets
+faiss-cpu 
+transformers 
+torch 
+langchain 
+langchain-community
+google.generativeai 
+tqdm
+tools
+pymupdf
