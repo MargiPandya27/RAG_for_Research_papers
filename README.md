@@ -9,12 +9,29 @@ This system integrates document preprocessing, semantic chunking, embedding gene
 
 ---
 
+![{0A399072-CE66-4B19-87DE-1E59B14E7944}](https://github.com/user-attachments/assets/9fc749b3-e72d-4e84-9761-4d48eeaa3fc0)
+
+---
+
 
 ## Installation
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/retrieval-augmented-generation.git
-   cd retrieval-augmented-generation
+   pip install -r requirements.txt
    ```
+
+   For running by uploading own pdf
+
+   ```bash
+   cd pdf_folder
+   python main.py
+   ```
+
+   For running from corpus
+      ```bash
+   cd pdf_folder
+   python main.py
+   ```
+      
