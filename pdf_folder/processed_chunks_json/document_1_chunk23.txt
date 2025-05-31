@@ -1,0 +1,5 @@
+Source: Pyramid Scene Parsing Network
+Section Titles: ['Abstract', 'Introduction', 'methods', 'methods', 'results', 'Results', 'methods', 'methods', 'methods', 'results']
+Start Index: 5500
+--------------------------------------------------
+Table 8. Per-class results on Cityscapes testing set. Methods trained using both ﬁne and coarse set are marked with ‘‡’.

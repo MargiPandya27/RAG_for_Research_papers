@@ -1,0 +1,5 @@
+Source: document_1
+Section Titles: []
+Start Index: 3000
+--------------------------------------------------
+100 * , 161801 ( 2008 ) . j. p. alexander _ et al . _ ( cleo collaboration ) , phys . rev . d * 79 * , 052001 ( 2009 ) . y. kubota _ et al . _ ( cleo collaboration ) , nucl . instrum . a * 320 * , 66 ( 1992 ) . d. peterson _ et al . _ , instrum . methods phys . , sec . a * 478 * , 142 ( 2002 ) . m. artuso _ et al . _ , nucl . instrum . methods phys . a * 502 * , 91 ( 2003 ) . s. dobbs _ et al . _ ( cleo collaboration ) , phys . rev . d * 76 * , 112001 ( 2007 ) . j. p. alexander _ et al . _ ( cleo collaboration ) , phys . rev . lett . * 100 * , 161804 ( 2008 ) . e. barberio and z. was , comput . . commun . * 79 * , 291 ( 1994 ) .

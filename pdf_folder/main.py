@@ -54,8 +54,6 @@ processor = DocumentProcessor(
 processed_documents = processor.process_dataset()
 
 
-
-
 genai.configure(api_key="YOUR_API_KEY")
 
 model = genai.GenerativeModel("gemini-2.0-flash")

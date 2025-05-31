@@ -15,12 +15,12 @@ processor = DocumentProcessor(dataset=sample_data, output_dir="output")
 # Process the dataset
 processed_documents = processor.process_dataset()
 
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyDgXKQojjiZqdH468J6cP_ZZGedC49RGT4")
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 
 # Query for document retrieval
-query = "Summarize what is segmentation?"
+query = "List all the papers on kernel after 2015."
 
 # Get the embedding for the query
 query_embedding = processor.embedder.embed_query(query)
