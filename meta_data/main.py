@@ -34,7 +34,7 @@ with open("pdf_metadata_output.json", "r", encoding="utf-8") as f:
 index = embedding(documents)
 print('index', index)
 
-genai.configure(api_key="AIzaSyDgXKQojjiZqdH468J6cP_ZZGedC49RGT4")
+genai.configure(api_key="YOUR-API-KEY")
 llm = genai.GenerativeModel("gemini-2.0-flash")
 
 
