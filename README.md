@@ -2,6 +2,8 @@
 
 A comprehensive **Retrieval-Augmented Generation (RAG)** system designed to search, analyze, and extract insights from academic research papers. This project provides intelligent document processing, semantic search, and AI-powered question answering capabilities for research paper collections.
 
+![Model Architecture](https://github.com/MargiPandya27/RAG_for_Research_Papers/blob/main/diagram.png)
+
 ## Features
 
 - **Multi-Modal Document Processing**: Support for both predefined corpora and user-uploaded PDF papers
